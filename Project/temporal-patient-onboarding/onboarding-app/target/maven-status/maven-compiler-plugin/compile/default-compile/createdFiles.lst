@@ -1,0 +1,9 @@
+org/acme/patient/onboarding/app/OnboardingImpl$1.class
+org/acme/patient/onboarding/utils/OnboardingServiceClient.class
+org/acme/patient/onboarding/utils/ActivityStubUtils.class
+org/acme/patient/onboarding/OnboardingResource.class
+org/acme/patient/onboarding/app/ServiceExecutorImpl.class
+org/acme/patient/onboarding/app/Onboarding.class
+org/acme/patient/onboarding/app/OnboardingImpl.class
+org/acme/patient/onboarding/app/ServiceExecutor.class
+org/acme/patient/onboarding/WorkflowApplicationObserver.class

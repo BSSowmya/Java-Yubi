@@ -1,0 +1,3 @@
+org/jobrunr/examples/services/MyServiceInterface.class
+org/jobrunr/examples/services/MyService.class
+org/jobrunr/examples/JobRunrStorageConfiguration.class
