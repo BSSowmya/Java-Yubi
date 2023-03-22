@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World</title>
+</head>
+<body>
+<!--<p>Job created !!</p>-->
+<form action="/jobs" method="post">
+    <label for="cron_schedule">Cron Schedule: [Ex: * * * * * - for every minute, */2 * * * * - every even minute ]</label><br>
+    <input type="text" id="cron_schedule" name="cron_schedule"><br>
+    <label for="exec_time">Execution Time:</label><br>
+    <input type="text" id="exec_time" name="exec_time"><br><br>
+    <label for="time_out">Time out :</label><br>
+    <input type="text" id="time_out" name="time_out"><br><br>
+    <label for="command">Command :</label><br>
+    <input type="text" id="command" name="command"><br><br>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
